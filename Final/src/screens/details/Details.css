@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+}
+
+.back{
+    margin-left: 24px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    height: 24px;
+    cursor: pointer; 
+    text-align: start;
+}
+
+.firstColumn{
+    width: 20%;
+}
+
+.secondColumn{
+    width: 60%;
+}
+
+.thirdColumn{
+    width: 20%;
+}
+
+.video-responsive{
+    margin-top: 16px;
+}

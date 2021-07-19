@@ -1,0 +1,32 @@
+.back {
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.register {
+    text-align: center;
+    margin-top: 16px;
+}
+
+.cardStyle {
+    width: 280px;
+    padding: 32px 64px 32px 64px;
+    margin: auto;
+    text-align: left;
+}
+
+.formControl {
+    width: 240px;
+}
+
+.dispNone {
+    display: none;
+}
+
+.dispBlock {
+    display: block;
+}
+
+.red {
+    color: red;
+}

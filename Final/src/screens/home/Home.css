@@ -1,0 +1,41 @@
+.gridroot{
+    display: 'flex';
+    flex-wrap: 'nowrap';
+    justify-content: 'space-around';
+    overflow: 'hidden';
+}
+.imagelist{
+    flex-wrap: 'nowrap' !important;
+    transform: 'translateZ(0)'
+}
+  
+.imagelist li {
+  margin: 10px;
+}
+
+.titleBar{
+   background: 'linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 70%, rgba(0,0,0,0) 100%)',
+  }
+
+  .cardlist{
+    margin: 16px;
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .flex-container {
+    display: flex;
+  }
+  .imageroot {
+    width: 76%;
+  }
+
+  .sublist{
+    width: 24%;
+  }
+
+  .clickableimage{
+    cursor: clickable-image;
+  }
+
+  
